@@ -1,0 +1,95 @@
+.Home{
+    
+    align-items: center;
+    text-align: center;
+    padding-inline: 20px;
+    background-color: aqua;
+    border: 1px solid ;
+    border-radius: 10px;
+    border-color: blueviolet;
+    margin-bottom: 20px;
+
+}
+
+
+.About{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+    padding:  50px;
+    border: 1px solid ;
+    border-radius: 20px;
+    background-color: brown;
+    margin-bottom: 20px;
+    
+}
+
+.pic{
+    padding: 50px;
+    height: 100%;
+    width: 50%;
+    
+}
+
+.Skills{
+    display: flex;
+    padding: 0 100px;
+    justify-content: space-around;
+    background-color: bisque;
+    margin-bottom: 20px;
+    border-radius: 20px;
+   
+}
+
+.Portfolio{
+    text-align: center;
+    padding: 30px;
+    background-color: azure;
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
+
+.pro1{
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid ;
+    border-radius: 20px;
+    padding: 30px;
+    background-color: burlywood;
+    margin-bottom: 20px;
+}
+
+.Exeperience{
+    text-align: center;
+    padding: 20px;
+    color: red;
+    background-color: yellowgreen;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    
+}
+.Testimonials{
+    text-align: center;
+    background-color: coral;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    
+}
+
+.Contact{
+     text-align: center;
+     padding: 20px 10px ;
+     background-color: cadetblue;
+     border-radius: 20px;
+     margin-bottom: 20px;
+}
+
+.Footer{
+    text-align: center;
+    padding: 20px 10px ;
+    border: 1px solid ;
+    border-radius: 20px;
+    padding: 30px;
+    background-color: blueviolet;
+}
